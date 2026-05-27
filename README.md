@@ -3,12 +3,16 @@
 Turn your WhatsApp chats into meaningful insights with advanced analytics, timelines, emoji analysis, and beautiful visual reports
 
 
+
 # 🚀 Live Demo
+
 
 ## 🌐 Try the Application Here
 
+
 🔗 **Live Demo:** 
 https://whatsapp-chat-analyzer-sh77.onrender.com
+
 
 
 
@@ -29,6 +33,8 @@ The application helps users analyze exported WhatsApp chats and generate meaning
 
 The project provides a modern and interactive dashboard for visualizing chat behavior.
 
+
+
 # ✨ Features
 
 ## 📈 Top Statistics
@@ -47,6 +53,7 @@ Analyze how quickly each participant replies in conversations.
 ✔ Seconds / Minutes / Hours format
 ✔ Interactive Pie Chart
 ✔ User-wise analysis
+
 
 
 ## ❤️ Conversation Starter Analysis
@@ -76,13 +83,16 @@ Visualize chat activity across:
 
 Identify the most active participants in group chats.
 
+
 ## ☁ WordCloud Generation
 
 Create beautiful WordClouds of the most used words.
 
+
 ## 🔥 Activity Heatmap
 
 Visual representation of chat activity based on time and day.
+
 
 # 🛠 Tech Stack
 
@@ -95,6 +105,7 @@ Visual representation of chat activity based on time and day.
 | Seaborn    | Charts & Heatmaps  |
 | WordCloud  | Word Visualization |
 | Emoji      | Emoji Analysis     |
+
 
 
 # 📂 Project Structure
@@ -115,7 +126,9 @@ Whatsapp_Chat_Analyser/
 └── data/
 ```
 
+
 # ⚙️ Installation & Setup
+
 
 ## 1️⃣ Clone Repository
 
@@ -154,6 +167,7 @@ streamlit run app.py
 ✔ Monthly chat trends
 ✔ Media sharing patterns
 
+
 # 🌐 Deployment
 
 This project can be deployed easily on:
@@ -172,6 +186,7 @@ This project can be deployed easily on:
 * Real-time Chat Dashboard
 * AI Chat Summary
 * Dark/Light Theme Toggle
+  
 
 # 👩‍💻 Developed By
 
